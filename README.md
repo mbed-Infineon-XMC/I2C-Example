@@ -43,7 +43,11 @@ mbed creates a BUID directory where you can find the executables (bin, elf, hex 
 
 ## Step 6: Connect sensor with the XMC board.
 
+Connect the sensor as described in the following picture.
+
 ![alt text](https://github.com/mbed-Infineon-XMC/I2C-Example/blob/master/ADJD-S311_con.png "Logo Title Text 1")
+
+> Also not forget to connect the serial interface! (RX = P0_4, TX = P0_5)
 
 ## Step 7: Flash to board
 

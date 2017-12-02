@@ -41,7 +41,11 @@ mbed compile -m XMC_4500_RELAX_KIT -t GCC_ARM
 ```
 mbed creates a BUID directory where you can find the executables (bin, elf, hex ...).
 
-## Step 6: Flash to board
+## Step 6: Connect sensor with the XMC board.
+
+![alt text](https://github.com/mbed-Infineon-XMC/I2C-Example/blob/master/ADJD-S311_con.png "Logo Title Text 1")
+
+## Step 7: Flash to board
 
 * [Segger JLink](https://www.segger.com/downloads/jlink) - Install the JLink software for your platform.
 * Navigate to the BUILD directory and execute the following JLinkExe commands.

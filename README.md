@@ -31,6 +31,7 @@ Example:
 cd I2C-Example.git/
 mbed add http://mbed.org/users/CheeseW/code/ADJDs311/#5d0bc4df0701
 ```
+> Make sure that mercurial version control is installed on your machine!
 
 ## Step 5: Compile project
 
